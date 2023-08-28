@@ -4,7 +4,7 @@
 
 <br/>
 
-<div style="background: #0d1117; border: 1px solid rgb(48, 54, 61); border-radius: 6px; padding: 1rem;">
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 1rem;">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CODEX-10&bg_color=0d1117&color=79818c&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
   
   <div align="center">  
