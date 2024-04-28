@@ -4,12 +4,12 @@
 
 <br/>
 
-<div style="background-color: #ffffff0d; border: 1px solid #30363d; border-radius: 6px; padding: 1rem;">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-valsechi&bg_color=ffffff0d&color=79818c&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
+<div style="background-color: #191d23; border: 1px solid #30363d; border-radius: 6px; padding: 1rem;">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-valsechi&bg_color=191d23&color=79818c&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
   
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-valsechi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=ffffff0d" alt="Caroline Barbosa github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-valsechi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=ffffff0d" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-valsechi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=191d23" alt="Caroline Barbosa github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-valsechi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=191d23" />
   </div>
 </div>
 
