@@ -8,8 +8,8 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-valsechi&bg_color=0d1117&color=79818c&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
   
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-valsechi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=191d23&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-valsechi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-valsechi&show_icons=true&count_private=true&hide_border=true&title_color=eeeeee&icon_color=ffffff&text_color=7896a2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-valsechi&layout=compact&hide_border=true&title_color=eeeeee&text_color=7896a2&bg_color=0d1117" />
   </div>
 </div>
 
